@@ -1,0 +1,56 @@
+React JS
+
+	ES6 :- ECMAScript(European Compouter Manufacturers Association ) current have ES10 version - 2019
+	React use ES6.
+	
+	Learning topics in ES6:
+		Classes
+		Arrow Functions
+		Variables (let, const, var)
+
+
+		var =  is function scope not block scope
+		let = is block scope
+		const = is block scope and value never changed.
+
+	React basic html view by RENDER
+	render function work if there called it by ReactDOM.render().
+	this function takes two arguments, HTML code and an HTML element.
+
+	React with JSX
+	JSX stands for javascript XML
+	JSX allows us to write HTML in React.
+	JSX makes it easier to write and add HTML in React.
+	With JSX you can write expressions inside curly braces { }.
+	
+		eg.
+			const myelement = <h1>React is {5 + 5} times better with JSX</h1>;
+			ReactDOM.render(myelement, document.getElementById('root'));
+
+	JSX will throw an error if the HTML is not properly closed.
+
+	REACT COMPONENTS :-	
+		Components come in two types, Class components and Function components
+		When creating a React component, the component's name must start with an upper case letter.
+		
+		1)CLASS COMPONENT
+		The component has to include the extends React.Component statement, this statement creates an inheritance to React.Component, and gives your component access to React.Component's functions.
+			class Car extends React.Component {
+ 			 render() {
+			    return <h2>Hi, I am a Car!</h2>;
+			  }
+			}
+			ReactDOM.render(<Car />, document.getElementById('root'));
+		
+		The component also requires a render() method, this method returns HTML.	
+
+		2)FUNCTION COMPONENT
+		
+		except in React, components must start with an upper case letter
+		function Car() {
+  			return <h2>Hi, I am also a Car!</h2>;
+		}
+		ReactDOM.render(<Car />, document.getElementById('root'));
+
+
+	
