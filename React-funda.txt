@@ -52,5 +52,16 @@ React JS
 		}
 		ReactDOM.render(<Car />, document.getElementById('root'));
 
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+Points:
+		
+	variable : var,const,let
+	render()
+	component -> component to component -> other files getting component to app.js file
+	constructor -> properties -> arrow function() -> state & props
+	reactlifecycle : The three phases are: Mounting, Updating, and Unmounting.
+	react event -> bind this method
+	react form -> submit and sent to user functionality -> with react validation
+	react css file how to work with that -> module wise css
 	
