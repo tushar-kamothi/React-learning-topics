@@ -64,4 +64,5 @@ Points:
 	react event -> bind this method
 	react form -> submit and sent to user functionality -> with react validation
 	react css file how to work with that -> module wise css
-	
+
+Extra data learn : ajax -> api ->  curl process.
