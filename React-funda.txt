@@ -66,3 +66,35 @@ Points:
 	react css file how to work with that -> module wise css
 
 Extra data learn : ajax -> api ->  curl process.
+
+
+//////////////////////////////////////////////////6-12-19 defination
+ajax jquery nd javascript
+api
+json
+npm
+ajax -> api ->  curl process.
+
+Prerequisites
+Basic knowledge of HTML, CSS, and JavaScript.
+Basic understanding of ES6 features. Here’s my article explaining some of the ES6 features.
+To get started you should at least know the following features:
+1. Let
+2. Const
+3. Arrow functions
+4. Imports and Exports
+5. Classes
+Basic understanding of how to use npm.
+
+
+react->
+jsx
+react-router
+react-dom api
+redux
+
+
+complete guidance by index way to learning
+before start pre requirements concept need to cover 1st in 1 week.
+no to do application need but understood purpose its good.
+
