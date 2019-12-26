@@ -103,6 +103,8 @@ complete guidance by index way to learning
 before start pre requirements concept need to cover 1st in 1 week.
 no to do application need but understood purpose its good.
 
+preventDefault in javascript
+
 JSON Understand:-
 	2 main function used
 	1)JSON.stringify :- to JavaScript object into a string
@@ -119,4 +121,14 @@ JSON Understand:-
 	let user = JSON.parse(userData);
 	alert( user.friends[1] );
 	o/p--- 1
+	
+	Used for PHP.
+	json_decode :- It converts a JSON encoded string into a PHP variable.--json to php
+	json_encode :- Arrays in PHP will also be converted into JSON when using the PHP function json_encode()--php to json
 
+
+	//INSHORT
+	JSON.stringify--json to string
+	JSON.parse ---string to json
+	json_decode --json to php
+	json_encode --php to json
