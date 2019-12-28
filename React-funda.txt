@@ -1,4 +1,6 @@
 Best example project:
+https://www.robinwieruch.de/static/6ffd0d9caf67596d3e848c9150d7fa54/2b1a3/banner.jpg
+
 https://dev.to/gethackteam/5-examples-of-react-applications-to-learn-from-275b
 
 https://skempin.github.io/reactjs-tmdb-app/
