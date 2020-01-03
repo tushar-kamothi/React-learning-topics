@@ -1,9 +1,13 @@
 Best example project:
+https://react.rocks/example/
+
 https://www.robinwieruch.de/static/6ffd0d9caf67596d3e848c9150d7fa54/2b1a3/banner.jpg
 
 https://dev.to/gethackteam/5-examples-of-react-applications-to-learn-from-275b
 
 https://skempin.github.io/reactjs-tmdb-app/
+https://soundcloud-redux.herokuapp.com/
+http://vision-explorer.reactive.ai/#/?_k=sryeg8
 
 React JS
 
