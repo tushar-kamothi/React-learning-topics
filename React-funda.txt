@@ -5,6 +5,13 @@ https://www.amazon.in/dp/B07CD2BN46/ref=psdc_1388921031_t1_B07W5MYLJZ
 //GAME
 https://ispy.heihei.resn.co/ 
 
+//Prerequirements best site link
+https://www.freecodecamp.org/news/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6/
+//ES6 best reading site
+https://hackernoon.com/es6-for-beginners-f98120b57414
+//Fetching API Beginner React
+https://blog.hellojs.org/fetching-api-data-with-react-js-460fe8bbf8f2
+
 Best example project:
 https://react.rocks/example/
 
